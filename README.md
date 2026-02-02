@@ -1,2 +1,1 @@
-# just-a-external-calculator
-a calculator created by me using just front and back-end python
+run the code in your terminal and then type "sair" in the terminal to open the external calculator.
